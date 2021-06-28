@@ -41,8 +41,7 @@ const menuToInsert = menuTemplate(menu)
 menuList.insertAdjacentHTML('beforeend', menuToInsert)
 
 
-console.log(menuList)
-console.log(menuTemplate(menu))
+
 
 
 
